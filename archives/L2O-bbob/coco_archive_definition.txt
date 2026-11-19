@@ -1,0 +1,16 @@
+[
+('bbob/LES.zip', '433342cc2c689bd3c0902497b0f39d713a3b68f1c0e2a3cd0d61bc2cb22d056a', 925), 
+('bbob/LTO.zip', 'c5ee3963395276855f70211247d1a29f1c98192dcb131b649d843e54927e13ff', 10023), 
+('bbob/PPO-CMA-ES.zip', 'd867b1b6577c001f8ca71efb42b61b1aedaf0337fb9bc1e66560f455ed6582d3', 2662), 
+('bbob-kappa2/LES-2.zip', '5229940b656f6cf4f2a63789b82ea4d9735a6168d5df68f8d68ce4ce2671ca8f', 908), 
+('bbob-kappa2/LTO-2.zip', '914c4590da07b392c612779006fc52537bfd63ad9e9717a44a4647a3567f6bc7', 69718), 
+('bbob-kappa2/PPO-CMA-ES-2.zip', '061733e868dca44b716774acbad196fbc0ba1f040662451fc5a621691061acf6', 2391), 
+('bbob-kappa2-rotated/LES-2R.zip', '19474e44e2000e9341d0dd20d0f2f2d68785c726fbfcb82b9a7d11beea9cf30b', 1186), 
+('bbob-kappa2-rotated/LTO-2R.zip', '770055cfbd21af417f9ad75d83d196f59c226646199d5ba20c1683d467ba7aa7', 64865), 
+('bbob-kappa2-rotated/PPO-CMA-ES-2R.zip', 'c5e83b5328c1db5d876a06a17533759f95d328e8d2d4a51486afeca1bf46ded2', 2551), 
+('bbob-kappa4/LES-4.zip', 'fb93b8143f31be9e6a6a49310be90f0909e767e0d7ad7ddcde505884c048d8a2', 900), 
+('bbob-kappa4/LTO-4.zip', 'ab8d27e8d7534c92220fc71f4163c39414f6e66dea8a633fa5c8c3a8ff644193', 65094), 
+('bbob-kappa4/PPO-CMA-ES-4.zip', '0d677ad3177c0c83f6dc6b3f7d9d578840b28f3825d65fb40a51e4000a22bd1a', 2485), 
+('bbob-kappa4-rotated/LES-4R.zip', 'a1c94a094accaac9cfe2d940746c63be56ca00250bd56cac16d694d9223bfa55', 1002), 
+('bbob-kappa4-rotated/LTO-4R.zip', 'edd8899145b841859e051923b146b642e5b2c06662328b133eabd4762dccb9f8', 67529), 
+('bbob-kappa4-rotated/PPO-CMA-ES-4R.zip', '93f20b3c22565140f4b3f39da5a5837a593383fa431069592b3c46662d1dcf14', 2552)]
